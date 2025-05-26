@@ -1,5 +1,6 @@
 TSUBAKI FLORAL - Simple PHP E-commerce Site
-This is a basic web application for TSUBAKI FLORAL, a flower shop, allowing users to browse products, learn about the company, and contact them. It also includes a simple admin panel for managing product listings.
+
+  This is a basic web application for TSUBAKI FLORAL, a flower shop, allowing users to browse products, learn about the company, and contact them. It also includes a simple admin panel for managing product listings.
 
 🚀 Features
 Homepage: Displays an overview of TSUBAKI FLORAL and possibly featured arrangements.
